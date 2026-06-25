@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello!
+
+I'm <span style="color:red">ikoryx</span>. or _Oryx_, a self-thought **indie game developer**.
+I love exploring computers and graphics, bringing my ideas to life.
+
+I mainly use **Godot**, but I've also tried to make my own engine with **LWJGL** (I failed miserably).
+
+
 
 <!--
 **ikoryx/ikoryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
